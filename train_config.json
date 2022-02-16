@@ -1,0 +1,10 @@
+{
+  "device": "cuda",
+  "start_epoch": 0,
+  "end_epoch": 100,
+  "batch_size": 1024,
+  "learning_rate": 1e-5,
+  "dataset_path": "datasets/landmarks_in_bytes.txt",
+  "encoder_path": "weights/encoder-1.pth",
+  "decoder_path": "weights/decoder-1.pth"
+}

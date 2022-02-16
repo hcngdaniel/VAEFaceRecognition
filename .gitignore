@@ -1,0 +1,3 @@
+/weights/encoder-1.pth
+/weights/decoder-1.pth
+/datasets/landmarks_in_bytes.txt
